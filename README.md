@@ -4,4 +4,4 @@
 <br>
 [https://kayleighs.github.io/Train-Scheduler/]
 <br>
-<img src="train-scheduler.jpg" width="500">
+<img src="train-scheduler.JPG" width="500">
